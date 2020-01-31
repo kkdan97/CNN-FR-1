@@ -1,0 +1,3 @@
+# CNN-FR-1
+CNN Face recognition with harcascade
+WELL THE FINE FOLDER IN THE DATASET IS A DUMMY DELETE IT.....
